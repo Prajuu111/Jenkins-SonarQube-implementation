@@ -1,0 +1,1 @@
+TO verify trigger is working automatically or not.
